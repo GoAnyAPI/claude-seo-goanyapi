@@ -6,8 +6,7 @@ keyword volumes, backlinks, traffic estimates, Google Ads Transparency, and
 reverse AdSense publisher lookups.
 
 Claude SEO works from Google Search Console and crawled pages — data about sites
-you own. This adds data about sites you do not own, from GoAnyAPI's HTTP API and
-its hosted MCP server.
+you own. This adds data about sites you do not own, from GoAnyAPI's HTTP API.
 
 ## Who maintains this, and what it costs
 
